@@ -1,0 +1,5 @@
+export BUILT_PRODUCTS_DIR="/Users/yy/Library/Developer/Xcode/DerivedData/Masonry-cinisukkygyvcgctsfyzngymafbj/Build/Products/Debug-iphonesimulator"
+export CURRENT_ARCH="x86_64"
+export OBJECT_FILE_DIR_normal="/Users/yy/Library/Developer/Xcode/DerivedData/Masonry-cinisukkygyvcgctsfyzngymafbj/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Pods-MasonryTestsLoader.build/Objects-normal"
+export OBJROOT="/Users/yy/Library/Developer/Xcode/DerivedData/Masonry-cinisukkygyvcgctsfyzngymafbj/Build/Intermediates.noindex"
+export SRCROOT="/Users/yy/Downloads/Masonry-master/Pods"
